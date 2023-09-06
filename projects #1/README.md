@@ -4,6 +4,8 @@
 
 #### *Please note that the project uses interactive charts that are not supported by github. Use this link to view if needed:*
 
+[View on nbviewer](https://nbviewer.org)
+
 1. [Core Skills and Tools](#core-skills-and-tools)
 2. [Key-words](#key-words)
 3. [Results](#results)
